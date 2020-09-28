@@ -1,0 +1,27 @@
+  body {
+      background-color: rgba(248, 142, 20, 0.733) !important;
+      width: 100% !important;
+      height: 100% !important;
+  }
+  
+  form {
+      background-color: rgb(238, 168, 88) !important;
+      padding: 3%;
+      border-radius: 10px;
+      font-size: 1.5rem !important;
+      margin: 0 auto;
+  }
+  
+  h1 {
+      text-align: center !important;
+      font-size: 3rem !important;
+      padding: 10px;
+      box-shadow: 2px 3px 0px black;
+      text-shadow: 2px 3px 0px black;
+      color: white;
+  }
+  
+  footer {
+      bottom: 0 !important;
+      top: 50px !important;
+  }
