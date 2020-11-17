@@ -56,7 +56,8 @@ $content .= '</div>';
 
 //------------------------------------------------------------------------------------
 ?>
-<h1>Bienvenu</h1>
+
+<h1>Bienvenue dans Votre Boutique</h1>
 
 <?= $content; //affichage du contenu  ?>
 
